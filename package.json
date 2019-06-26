@@ -1,0 +1,9 @@
+{
+  "name": "react-template",
+  "version": "1.0.0",
+  "description": "react template",
+  "main": "index.js",
+  "repository": "git@github.com:dsawebdev/react-starter.git",
+  "author": "Devon Anderson <dvonanderson@gmail.com>",
+  "license": "MIT"
+}
