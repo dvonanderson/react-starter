@@ -2,7 +2,7 @@
 
 # react-starter
 
-###Installation Instructions
+### Installation Instructions
 
 - Clone repository
 ```
